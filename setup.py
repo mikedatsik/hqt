@@ -7,5 +7,5 @@ setup(
     url='https://github.com/mikedatsik/hqt',
     author='paulwinex',
     license='Apache License (2.0)',
-    py_modules=["appdirs"]
+    py_modules=["hqt"]
 )
